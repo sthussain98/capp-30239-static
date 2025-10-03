@@ -18,6 +18,7 @@ URL: https://www.worldbank.org/en/publication/globalfindex/download-data
 Size: 8564 rows, 437 columns
 
 The data are in wide format — each row corresponds to a country, a year, and a specific disaggregation (gender, income, age, urban/rural residence, labor-force status, or education). The data can be easily downloaded as a csv and comes with a data dictionary. 
+
 ### Data Source 2: IMF’s Financial Access Survey (FAS)
 
 URL: https://data.imf.org/en/datasets/IMF.STA:FAS
@@ -25,3 +26,8 @@ URL: https://data.imf.org/en/datasets/IMF.STA:FAS
 Size: 24,957 rows, 70 columns
 
 The data are in wide format: each row is unique to a country and a specific financial indicator. If an indicator is disaggregated (for example, by gender or income), rows are further distinguished by those categories. Indicator values are stored in columns for each year. The data can also be easily downloaded as csv. 
+
+## Questions
+
+1. Both the World Bank and the IMF have published reports using this data which includes visualizations, is that okay or does this project need to focus on something not done before.
+
