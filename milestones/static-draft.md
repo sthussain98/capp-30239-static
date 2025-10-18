@@ -39,7 +39,7 @@ Financial resilience is the ability to raise funds within 30 days when needed—
 Focusing on South Asia’s largest economies—India, Bangladesh, and Pakistan—reveals wide differences. India leads with the highest account ownership, while Pakistan trails behind. In all three, mobile money usage remains below formal bank ownership.
 
 
-![](static-draft-images/account_ownership_gender_gaps.png)
+![](static-draft-images/account_owenership_gender_gaps.png)
 
 Across the region, women are far less likely than men to have bank accounts. Percentages are calculated within each gender group (e.g., % of adult women, not % of all adults). These gaps likely reflect social norms and barriers to women’s access. 
 
