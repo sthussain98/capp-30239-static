@@ -21,7 +21,7 @@ This chart compares account ownership (through banks and similar institutions) a
 
 ![](static-draft-images/region_mobile_account_ownership.png)
 
-Mobile money accounts offer a cheaper, more accessible alternative to traditional banking. In 2024, South Asia had a higher share of adults with mobile accounts than MENA but remained below all other regions.
+Mobile money accounts offer a cheaper, more accessible alternative to traditional banking. In 2024, South Asia had a higher share of adults with mobile accounts than MENA and the East Asia & Pacific region  but remained below all other regions.
 
 
 ![](static-draft-images/region_savings.png)
